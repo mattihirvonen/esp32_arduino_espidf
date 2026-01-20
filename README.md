@@ -4,3 +4,7 @@ Reason to convert PlatformIO Arduino project use also ESP-IDF framework is lack 
 Espidf framework contain this missing feature
 
 This is tiny test application to use both frameworks in same PlatformIO project
+
+Ref:
+- https://docs.espressif.com/projects/arduino-esp32/en/latest/esp-idf_component.html
+
